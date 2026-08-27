@@ -1,0 +1,10 @@
+{
+  "name": "数学之美",
+  "short_name": "数学之美",
+  "description": "在故事与游戏中亲手发现数学。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eaf1dc",
+  "theme_color": "#173f35"
+}
